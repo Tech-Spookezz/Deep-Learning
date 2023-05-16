@@ -1,4 +1,4 @@
-Python Implementation Of GRU RNN , A deep learning model using tensorflow datasets with following instructions ;
+Python Implementatation of deep learning models using tensorflow datasets with following instructions ;
 
  Datasets/libraries can be loaded from keras.datasets
  Data-pre-processing is must
